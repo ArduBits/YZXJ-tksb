@@ -23,4 +23,4 @@
         
 使用的是Maixhub在线模型训练平台，https://maixhub.com/
 
-
+（具体步骤请看附件word教程）
